@@ -2,5 +2,5 @@
 .AppleDouble
 .LSOverride
 
-node_modules/*
-.idea/*
+node_modules/
+.idea/
